@@ -29,7 +29,6 @@ function Map() {
   const [mapLat, mapLng] = useUrlPosition();
 
   useEffect(() => {
-    console.log(mapLat, mapLng);
     if (mapLat && mapLng) setMapPosition([mapLat, mapLng]);
   }, [mapLat, mapLng]);
 
