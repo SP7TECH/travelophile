@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "f0df",
-      "cityName": "Ayodhya",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-04-23T20:06:18.760Z",
-      "notes": "Ram Janmabhoomi Mandir",
-      "position": {
-        "lat": "26.795616957803233",
-        "lng": "82.19451963901521"
-      }
-    },
-    {
       "id": "d4ae",
       "cityName": "Bengaluru",
       "country": "India",
@@ -61,15 +49,15 @@
       }
     },
     {
-      "id": "6ffa",
-      "cityName": "Mangalore",
+      "id": "aece",
+      "cityName": "Nagpur",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2025-04-24T19:28:19.323Z",
+      "date": "2025-10-06T02:57:25.309Z",
       "notes": "",
       "position": {
-        "lat": "12.88410238354478",
-        "lng": "74.91027832031251"
+        "lat": "21.074248926792812",
+        "lng": "79.03564453125"
       }
     }
   ]
