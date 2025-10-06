@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "2464",
-      "cityName": "Mumbai",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-04-23T20:04:06.302Z",
-      "notes": "Mumbai Airport",
-      "position": {
-        "lat": "19.090346689370524",
-        "lng": "72.8661346435547"
-      }
-    },
-    {
       "id": "f0df",
       "cityName": "Ayodhya",
       "country": "India",
